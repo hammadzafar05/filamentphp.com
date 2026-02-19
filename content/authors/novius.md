@@ -4,7 +4,7 @@ slug: Novius
 github: https://github.com/novius
 ---
 
-[**Novius**](https://www.novius.com) est une agence web française spécialisée dans le développement d’applications web sur mesure avec **Laravel**.
+[**Novius**](https:www.novius.com) is a French web agency specializing in the development of tailor-made web applications with **Laravel**. 
 
-Nous concevons des outils robustes, maintenables et orientés métier, avec une attention particulière portée à l’expérience développeur et à la pérennité des projets.  
-Nos plugins Filament sont utilisés en production sur des projets clients et sont conçus pour répondre à des besoins concrets, éprouvés sur le terrain.
+We design robust, maintainable and business-oriented tools, with particular attention paid to the developer experience and the sustainability of projects. 
+Our Filament plugins are used in production on customer projects and are designed to meet concrete needs, proven in the field.
