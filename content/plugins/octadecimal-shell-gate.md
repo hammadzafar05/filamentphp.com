@@ -13,5 +13,5 @@ github_repository: octadecimalhq/shellgate
 has_dark_theme: true
 has_translations: false
 versions: [3]
-publish_date: 2026-02-10
+publish_date: 2026-02-22
 ---
