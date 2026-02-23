@@ -10,5 +10,5 @@ github_repository: hammadzafar05/mobile-bottom-nav
 has_dark_theme: true
 has_translations: true
 versions: [4, 5]
-publish_date: 2026-02-22
+publish_date: 2026-02-23
 ---
